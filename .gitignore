@@ -25,4 +25,5 @@ aws-python-project/.history/*
 .idea
 aws-python-project/node_modules
 .DS_Store
+.history/*
 ```
